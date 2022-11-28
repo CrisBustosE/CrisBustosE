@@ -5,7 +5,7 @@
 
 - Ahora mismo estoy iniciando el siguiente curso de React : *https://www.udemy.com/course/react-cero-experto/* por Fernando Herrera
 
-- Ejemplo de aplicacion con Node.js y Express + PSQL 14 [Banco Solar](https://github.com/CrisBustosE/BancoSolar) con deploy disponible en Heroku
+- Ejemplo de aplicacion con Node.js y Express + PSQL 14 [Banco Solar](https://github.com/CrisBustosE/BancoSolar) ~~con deploy disponible en Heroku~~
 
 - Mis demás proyectos se encuentran en [https://github.com/CrisBustosE](https://github.com/CrisBustosE)
 
